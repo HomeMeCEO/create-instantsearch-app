@@ -177,3 +177,4 @@ Create InstantSearch App is [MIT licensed](LICENSE).
 [angular-instantsearch-github]: https://github.com/algolia/angular-instantsearch
 [instantsearch-ios-github]: https://github.com/algolia/instantsearch-ios
 [instantsearch-android-github]: https://github.com/algolia/instantsearch-android
+
